@@ -2,7 +2,7 @@
 
 ## Project Description
 
-CSV Analytics Dashboard is an interactive data analysis application developed using Python. The project allows users to upload CSV datasets and perform multiple data analysis operations such as dataset preview, statistical analysis, missing value detection, filtering, visualization, correlation analysis, and dataset cleaning.
+CSV Analytics Dashboard is an interactive data analysis application developed using Python. The project allows users to upload CSV datasets and perform multiple data analysis operations such as dataset preview, statistical analysis, missing value analysis, filtering, visualization, correlation analysis, and basic data cleaning.
 
 The dashboard provides an easy and user-friendly way to analyze structured datasets using Python libraries.
 
@@ -20,7 +20,7 @@ The dashboard provides an easy and user-friendly way to analyze structured datas
 ## Features
 
 ### Dataset Upload
-- Upload CSV files directly into the dashboard.
+- Upload CSV files directly into the dashboard
 
 ### Dataset Overview
 - Display total rows
@@ -28,12 +28,12 @@ The dashboard provides an easy and user-friendly way to analyze structured datas
 - Display missing values count
 
 ### Dataset Preview
-- View complete dataset in tabular format.
+- View complete dataset in tabular format
 
 ### Dataset Information
 - View column names
 - View data types
-- View non-null values
+- View missing value information
 
 ### Summary Statistics
 - Mean
@@ -48,8 +48,9 @@ The dashboard provides an easy and user-friendly way to analyze structured datas
 - Display null value count column-wise
 
 ### Data Cleaning
-- Remove missing values from dataset
+- Handle missing values using basic data cleaning techniques
 - Generate cleaned dataset
+- Remove duplicate records
 
 ### Dataset Filtering
 - Filter records based on column values
@@ -109,38 +110,40 @@ Used for:
 
 ## How to Run the Project
 
+### Install Required Libraries
+
 ```bash
 python -m pip install pandas matplotlib streamlit
 ```
-
 ```bash
 python -m streamlit run app.py
 ```
 
 ## GitHub Repository
-https://ishaa-305.github.io/CSV-Analytics-Dashboard/
 
+https://github.com/ishaa-305/CSV-Analytics-Dashboard
 
-## 🌐 Live Demo  
+## 🌐 Live Demo 
 
-[Click here to view project](https://csv-analytics-dashboard-1.streamlit.app/)
+[Click here to view project](https://csv-analytics-dashboard-1.streamlit.app/) 
 
-## 📸 Project Screenshots
+## 📸 Project Screenshots 
 
-### Dashboard
-![Dashboard](images/dashboard.png)
+### Dashboard 
+![Dashboard](images/dashboard.png) 
 
 ### Raw Dataset
-![Raw Data](images/raw_data.png)
+![Raw Data](images/raw_data.png) 
 
-### Information
-![Dataset Information](images/info.png)
+### Information 
+![Dataset Information](images/info.png) 
 
-### Insights
-![Insights](images/insights.png)
+### Insights 
+![Insights](images/insights.png) 
 
-### Correlation
-![Correlation](images/correlation.png)
+### Correlation 
+![Correlation](images/correlation.png) 
 
-## Author
+## Author 
+
 Isha Dwivedi
