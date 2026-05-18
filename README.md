@@ -116,6 +116,11 @@ python -m pip install pandas matplotlib streamlit
 ```bash
 python -m streamlit run app.py
 ```
+
+## GitHub Repository
+https://github.com/yourusername/csv-analytics-dashboard
+
+
 ## 🌐 Live Demo  
 
 [Click here to view project](your-streamlit-link)
