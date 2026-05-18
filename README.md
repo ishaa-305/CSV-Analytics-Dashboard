@@ -140,7 +140,7 @@ https://ishaa-305.github.io/CSV-Analytics-Dashboard/
 ![Insights](images/insights.png)
 
 ### Correlation
-![Correlation](images/coorelation.png)
+![Correlation](images/correlation.png)
 
 ## Author
 Isha Dwivedi
