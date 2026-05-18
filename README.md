@@ -121,7 +121,7 @@ python -m streamlit run app.py
 
 ## GitHub Repository
 
-https://github.com/ishaa-305/CSV-Analytics-Dashboard
+https://github.com/ishaa-305/CSV-Analytics-Dashboard/
 
 ## 🌐 Live Demo 
 
