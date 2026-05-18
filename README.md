@@ -118,21 +118,29 @@ python -m streamlit run app.py
 ```
 
 ## GitHub Repository
-https://github.com/yourusername/csv-analytics-dashboard
+https://ishaa-305.github.io/CSV-Analytics-Dashboard/
 
 
 ## 🌐 Live Demo  
 
-[Click here to view project](your-streamlit-link)
+[Click here to view project](https://csv-analytics-dashboard-1.streamlit.app/)
 
 ## 📸 Project Screenshots
 
-### Dashboard Overview
+### Dashboard
 ![Dashboard](images/dashboard.png)
 
-### Data Analysis View
-![Analysis](images/analysis.png)
+### Raw Dataset
+![Raw Data](images/raw_data.png)
 
+### Information
+![Dataset Information](images/info.png)
+
+### Insights
+![Insights](images/insights.png)
+
+### Correlation
+![Correlation](images/coorelation.png)
 
 ## Author
 Isha Dwivedi
